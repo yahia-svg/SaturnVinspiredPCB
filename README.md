@@ -1,4 +1,4 @@
-# SaturnVinspirecPCB
+# SaturnVinspiredPCB
 ## Description
 This is an astable multivibrator circuit used to flicker two LED's, activated by holding down the button.
 The pcb is supposed to resemble a Rocket.
