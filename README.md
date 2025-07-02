@@ -1,6 +1,7 @@
 # Description
 This is an astable multivibrator circuit used to flicker two LED's, activated by holding down the button.
 The pcb is supposed to resemble a Rocket.
+here's the falstad circuit: https://tinyurl.com/2azdg2f5
 # Bill of materials
 2 capacitors
 2 LEDS
